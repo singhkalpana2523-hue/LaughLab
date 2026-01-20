@@ -53,7 +53,7 @@ This approach reduces manual effort and makes creative content generation access
 The application is deployed using Streamlit Cloud.
 
 🔗 **Live Application:**  
-👉 `PASTE_YOUR_STREAMLIT_LINK_HERE`
+👉 https://laughlab-hkuzfxxy4wrvj2bbfr7yry.streamlit.app/
 
 ---
 
@@ -61,3 +61,4 @@ The application is deployed using Streamlit Cloud.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
